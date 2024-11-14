@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+
+key:
+  yandex_api_key: d32d2809-b43b-484f-886a-25ec7c2073e4
+
+request:
+  yandex_weather_address: https://api.weather.yandex.ru/v2/forecast
+
